@@ -15,6 +15,10 @@ MyFirstTest
 MySecondTest
     [Tags]    Sanity
     Log    Hi
+    
+MyThirddTest
+    [Tags]    Sanity
+    Log    Abcd
         
 FirstSeleniumTest
     [Tags]    Sanity
